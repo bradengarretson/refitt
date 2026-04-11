@@ -1,0 +1,34 @@
+# Changes here will be overwritten by Copier
+_commit: v2.2.0
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: bgarrets@purdue.edu
+author_name: Braden Garretson
+create_example_module: true
+custom_install: library
+enforce_style:
+- ruff_lint
+- ruff_format
+failure_notification: []
+include_benchmarks: true
+include_docs: true
+include_notebooks: true
+mypy_type_checking: basic
+package_name: refitt
+project_description: 'The Reccomender Engine for Intelligent Tracking (REFITT) is
+    a reccomender engine that autonomously designs optimal observing strategies in
+    real time that utilize the diverse capabilities provided by different telescopes
+    and instruments, weighted by their respective costs vs. benefits to, to achieve
+    community-directed scientific objectives. Unlike existing follow-up programs that
+    focus on detailed characterization of individual supernovae, REFITT prioritizes
+    observations that maximize expected information gain of physical model parameters,
+    enabling improved population-level inference from LSST supernova data through
+    more efficient use of limited follow-up resources. '
+project_license: MIT
+project_name: refitt
+project_organization: bradengarretson
+python_versions:
+- '3.10'
+- '3.11'
+- '3.12'
+- '3.13'
+test_lowest_version: all
