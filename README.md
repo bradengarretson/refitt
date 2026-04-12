@@ -8,7 +8,7 @@ The Reccomender Engine for Intelligent Tracking (REFITT) is a reccomender engine
 [![PyPI](https://img.shields.io/pypi/v/refitt?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/refitt/)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bradengarretson/refitt/smoke-test.yml)](https://github.com/bradengarretson/refitt/actions/workflows/smoke-test.yml)
 [![Codecov](https://codecov.io/gh/bradengarretson/refitt/branch/main/graph/badge.svg)](https://codecov.io/gh/bradengarretson/refitt)
-[![Read The Docs](https://img.shields.io/readthedocs/refitt)](https://refitt.readthedocs.io/)
+[![Read The Docs](https://img.shields.io/readthedocs/refitt)](https://refitt-pipeline.readthedocs.io/)
 [![Benchmarks](https://img.shields.io/github/actions/workflow/status/bradengarretson/refitt/asv-main.yml?label=benchmarks)](https://bradengarretson.github.io/refitt/)
 
 This project was automatically generated using the LINCC-Frameworks 
