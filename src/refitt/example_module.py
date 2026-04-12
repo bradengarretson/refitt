@@ -2,7 +2,7 @@
 
 
 def greetings() -> str:
-    """A friendly greeting for a future friend.
+    """A friendly greeting for a future friend. test.
 
     Example:
     >>> greetings()
